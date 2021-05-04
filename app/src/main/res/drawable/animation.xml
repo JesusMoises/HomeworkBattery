@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list xmlns:android="http://schemas.android.com/apk/res/android">
+   <item
+       android:drawable="@drawable/ic_batteryfull"
+       android:duration="400">
+   </item>
+
+    <item
+        android:drawable="@drawable/ic_batteryfull2"
+        android:duration="400">
+    </item>
+
+    <item
+        android:drawable="@drawable/ic_batteryfull3"
+        android:duration="400">
+    </item>
+
+    <item
+        android:drawable="@drawable/ic_batterymedium"
+        android:duration="400">
+    </item>
+
+    <item
+        android:drawable="@drawable/ic_batterymedium1"
+        android:duration="400">
+    </item>
+
+    <item
+        android:drawable="@drawable/ic_batterylow"
+        android:duration="400">
+    </item>
+
+    <item
+        android:drawable="@drawable/ic_batteryempty"
+        android:duration="400">
+    </item>
+
+
+</level-list>
